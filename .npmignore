@@ -1,0 +1,11 @@
+# .npmignore 
+src
+examples
+.gitignore
+.eslintrc
+webpack.config.js
+rollup.config.js
+jest.config.js
+package-lock.json
+yarn.lock
+yarn-error.log

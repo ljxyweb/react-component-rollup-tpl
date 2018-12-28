@@ -1,0 +1,15 @@
+.container {
+  > p {
+    font-size: 14px;
+    line-height: 20px;
+    background-color: red;
+    animation: 0s
+  }
+}
+.container1 {
+  > p {
+    font-size: 14px;
+    line-height: 20px;
+    background-color: green;
+  }
+}
