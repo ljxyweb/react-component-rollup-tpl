@@ -1,6 +1,6 @@
 # react-component-rollup-tpl
 
-react-component-rollup-tpl 是一个开发 js 库的模板，用于 react-component-cli 脚手架。该模板可对 js 和 css 进行处理，适用于 js 库。使用 webpack 生成开发环境，使用 rollup 进行打包，可打包成三个版本进行使用。
+react-component-rollup-tpl 是一个开发 js 库的模板，用于 react-cv-cli 脚手架。该模板可对 js 和 css 进行处理，适用于 js 库。使用 webpack 生成开发环境，使用 rollup 进行打包，可打包成三个版本进行使用。
 
 ## Command
 
